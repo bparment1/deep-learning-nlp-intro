@@ -9,3 +9,5 @@ NLP is fast becoming ubiquitous in the workplace and in everyday life. The goal 
 3. Recurrent Neural network for NLP sentiment analysis
 4. Convolution Neural network for NLP sentiment analysis
 5. Transformers for NLP sentiment analysis: BERT
+6. Topic modeling intro
+7. Topic modeling: BERTopic
