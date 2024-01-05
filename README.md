@@ -11,3 +11,4 @@ NLP is fast becoming ubiquitous in the workplace and in everyday life. The goal 
 5. Transformers for NLP sentiment analysis: BERT
 6. Topic modeling intro
 7. Topic modeling: BERTopic
+8. Topic modeling and LLM
