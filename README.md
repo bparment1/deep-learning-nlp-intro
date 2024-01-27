@@ -7,6 +7,6 @@ NLP is fast becoming ubiquitous in the workplace and in everyday life. The goal 
 1. Sentinment analysis modeling: intro to NLP
 2. DL NLP intro dense, recurrent and cnn networks
 3. Tansfer learning NLP: BERT and Universal Sentence Encoder
-4. Topic modeling intro
-5. Topic modeling: BERTopic
+4. Topic modeling intro: NMF, LSA and LDA
+5. Topic modeling: BERTopic and Top2Vec
 6. Topic modeling and LLM
